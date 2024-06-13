@@ -7,3 +7,4 @@ Um projeto para entender conceitos basicos sobre tcp/ip e como configurar as red
 [Explicacao CIDR](https://aws.amazon.com/pt/what-is/cidr/)<br>
 [Tcp/ip](https://www.hostinger.com.br/tutoriais/tcp-ip)<br>
 [Roteador](https://www.youtube.com/watch?v=k-mjDBRLI9U&t=46s)<br>
+[Roteamento estática e Default](https://www.youtube.com/watch?v=csWu6t7GIWU&ab_channel=CanaldeTi)<br>
